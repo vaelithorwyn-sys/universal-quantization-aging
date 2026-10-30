@@ -6,5 +6,5 @@ authors:
     orcid: https://orcid.org/0009-0009-5423-6389
     email: vaelithorwyn@gmail.com
 license: MIT
-repository-code: "https://github.com/vaelithorwyn-sys/universal-quantization-aging"
-version: v1.0.0
+repository-code: https://github.com/vaelithorwyn-sys/universal-quantization-aging
+version: 1.0.0
