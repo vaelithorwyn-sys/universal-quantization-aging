@@ -1,9 +1,10 @@
 cff-version: 1.2.0
-title: "Universal Quantization of Biological Aging"
+title: "Universal Quantization of Biological Aging: A Measure-Theoretic Framework in Polish Spaces with Optimal Transport Drift Metrics"
 authors:
-    - family-names:  lucky Pandey
+    - family-names: Pandey
+    given-names: Lucky
     orcid: https://orcid.org/0009-0009-5423-6389
     email: vaelithorwyn@gmail.com
-repository-code: "https://github.com/vaelithorwyn-sys/universal-quantization-aging"
 license: MIT
-version: v1.0.0-only-orcid
+repository-code: "https://github.com/vaelithorwyn-sys/universal-quantization-aging"
+version: v1.0.0
