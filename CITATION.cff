@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Universal Quantization of Biological Aging"
+authors:
+    - family-names:  lucky Pandey
+    orcid: https://orcid.org/0009-0009-5423-6389
+    email: vaelithorwyn@gmail.com
+repository-code: "https://github.com/vaelithorwyn-sys/universal-quantization-aging"
+license: MIT
+version: v1.0.0-only-orcid
